@@ -1,0 +1,6 @@
+Pallavi Sharma — Software Engineer, Infosys (Responsible AI)
+Skills: Python, FastAPI, Flask, MongoDB, MySQL, GenAI, NLP, Deep Learning, DSA, OOPS,
+        HTML, CSS, JS, Tailwind, Git, Excel, LangGraph, AutoGen, FastMCP, Azure OpenAI
+Projects: Agent orchestration (LangGraph/AutoGen), Privacy/Moderation layers,
+          Prompt injection detection (multilingual)
+Education: B.E., CGPA 8.2

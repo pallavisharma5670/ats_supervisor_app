@@ -1,0 +1,8 @@
+streamlit
+langgraph-supervisor
+langgraph
+langchain
+langchain-google-genai
+google-genai
+pypdf
+python-docx

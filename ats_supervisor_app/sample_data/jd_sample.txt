@@ -1,0 +1,6 @@
+Presales Engineer JD:
+- Strong Python, FastAPI
+- Client demos, RFP handling, BRD analysis
+- Cloud (Azure/AWS)
+- CI/CD basics
+- Communication & stakeholder alignment
